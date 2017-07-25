@@ -1,0 +1,19 @@
+# Primary
+'big-stone': !!python/tuple [20, 43, 68]
+'chambray': !!python/tuple [29, 80, 141]
+'lochmara': !!python/tuple [40, 138, 214]
+'caribbean-green': !!python/tuple [22, 201, 141]
+'paris-daisy': !!python/tuple [254, 239, 109]
+'saffron': !!python/tuple [255, 200, 63]
+'carnation': !!python/tuple [250, 94, 91]
+'mulberry': !!python/tuple [191, 83, 141]
+    
+# Secondary
+'trendy-pink': !!python/tuple [104, 78, 121]
+'brink-pink': !!python/tuple [255, 112, 142]
+'keppel': !!python/tuple [71, 168, 153]
+'malibu': !!python/tuple [138, 190, 229]
+'caper': !!python/tuple [199, 230, 170]
+'chino': !!python/tuple [207, 203, 175]
+'buccaneer': !!python/tuple [88, 44, 43]
+'falu-red': !!python/tuple [132, 30, 27]
