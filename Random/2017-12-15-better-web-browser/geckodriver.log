@@ -1,0 +1,28 @@
+1513355432731	geckodriver	INFO	geckodriver 0.19.1
+1513355432797	geckodriver	INFO	Listening on 127.0.0.1:56386
+1513355434064	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_w/27n6rk3d1hjd9tzk224gx4yh0000gn/T/rust_mozprofile.eZfS00llTvnQ"
+1513355434856	Marionette	INFO	Enabled via --marionette
+2017-12-15 11:30:35.634 plugin-container[24960:3397258] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1513355436211	Marionette	INFO	Listening on port 56395
+1513355436320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513355436363	Marionette	DEBUG	Register listener.js for window 2147483649
+1513355436375	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513355436511	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513355436511	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513355436792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://theoutline.com/post/2604/star-wars-the-last-jedi-hype"
+1513355438146	Marionette	DEBUG	Received DOM event "pageshow" for "https://theoutline.com/post/2604/star-wars-the-last-jedi-hype"
+1513355616760	geckodriver	INFO	geckodriver 0.19.1
+1513355616828	geckodriver	INFO	Listening on 127.0.0.1:56686
+1513355617856	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_w/27n6rk3d1hjd9tzk224gx4yh0000gn/T/rust_mozprofile.lb33dT5jz7N7"
+1513355618366	Marionette	INFO	Enabled via --marionette
+2017-12-15 11:33:39.029 plugin-container[25058:3426710] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1513355619448	Marionette	INFO	Listening on port 56695
+1513355619465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513355619510	Marionette	DEBUG	Register listener.js for window 2147483649
+1513355619525	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513355619614	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513355619614	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513355619836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://theoutline.com/post/2604/star-wars-the-last-jedi-hype"
+1513355620655	Marionette	DEBUG	Received DOM event "pageshow" for "https://theoutline.com/post/2604/star-wars-the-last-jedi-hype"
