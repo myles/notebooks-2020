@@ -1,0 +1,15 @@
+
+
+
+Crowdsourced data on dried cannabis prices, use, and consumption
+
+Observations in the data represent self-reported information submitted by website visitors concerning previous purchases of dried cannabis.
+The data contain no identifiable information as all submissions are done anonymously.
+
+Source: Statistics Canada, Crowdsourcing Cannabis (https://surveys-enquetes.statcan.gc.ca/cannabis/en)
+Geography: Census subdivision
+Reference period: The application was launched January 25, 2018. Data are being collected continuously and will be made available as new information comes in.
+
+Official Statistics Canada estimates for cannabis prices in Canada can be found on CANSIM Table 388-0011.
+For more information on cannabis prices and related information, please consult the Cannabis Stats Hub at https://www.statcan.gc.ca/pub/13-610-x/13-610-x2018001-eng.htm.
+
